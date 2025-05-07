@@ -7,7 +7,8 @@
 - ☁️ **AWS** (EC2, S3, IAM, CloudWatch)
 - 🐳 **Docker**
 - 🔁 **GitHub Actions**
-- 🛠️ **Terraform** ou **Bash**
+- 🛠️ **Terraform**
+- 🛠️ **Bash**
 - 🌐 HTML + CSS básico
 
 ## 🌱 Em constante evolução
